@@ -49,7 +49,7 @@ jupyter notebook MPCDA.ipynb
 
 This work is currently under review for journal submission.
 
-To maintain research integrity, only partial implementation code is currently provided. Detailed methodological descriptions, trained models, datasets, and experimental resources will be released after publication.
+To maintain research integrity, only partial implementation code is currently provided. Detailed methodological descriptions, trained models, datasets, and experimental resources will be released later.
 
 ## Citation
 
